@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Tutorial on Rational Empiricism</title>
-    <link>http://alexc17.github.io/tags/tutorial/</link>
+    <link>https://alexc17.github.io/tags/tutorial/</link>
     <description>Recent content in  Tutorial on Rational Empiricism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://alexc17.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Learning of Syntax</title>
-      <link>http://alexc17.github.io/publication/clark2017computational/</link>
+      <link>https://alexc17.github.io/publication/clark2017computational/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/publication/clark2017computational/</guid>
+      <guid>https://alexc17.github.io/publication/clark2017computational/</guid>
       <description>Authors Clark, Alexander
 Year 2017
 Abstract Learnability has traditionally been considered to be a crucial constraint on theoretical syntax; however, the issues involved have been poorly understood, partly as a result of the lack of simple learning algorithms for various types of formal grammars. Here I discuss the computational issues involved in learning hierarchically structured grammars from strings of symbols alone. The methods involved are based on an abstract notion of the derivational context of a syntactic category, which in the most elementary case of context-free grammars leads to learning algorithms based on a form of traditional distributional analysis.</description>
@@ -20,10 +20,10 @@ Abstract Learnability has traditionally been considered to be a crucial constrai
     
     <item>
       <title>Distributional Learning of Context-Free and Multiple Context-Free Grammars</title>
-      <link>http://alexc17.github.io/publication/topicsgi/</link>
+      <link>https://alexc17.github.io/publication/topicsgi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/publication/topicsgi/</guid>
+      <guid>https://alexc17.github.io/publication/topicsgi/</guid>
       <description>Authors Clark, Alexander and Yoshinaka, Ryo
 Year 2016
 Abstract Natural languages require grammars beyond context-free for their description. Here we extend a family of distributional learning algorithms for context-free grammars to the class of Parallel Multiple Context-Free Grammars (PMCFGs). These grammars have two additional operations beyond the simple context-free operation of concatenation: the ability to interleave strings of symbols, and the ability to copy or duplicate strings. This allows the grammars to generate some non-semilinear languages, which are outside the class of mildly context-sensitive grammars.</description>
@@ -31,10 +31,10 @@ Abstract Natural languages require grammars beyond context-free for their descri
     
     <item>
       <title>An introduction to multiple context free grammars for linguists</title>
-      <link>http://alexc17.github.io/publication/clark2014introduction/</link>
+      <link>https://alexc17.github.io/publication/clark2014introduction/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/publication/clark2014introduction/</guid>
+      <guid>https://alexc17.github.io/publication/clark2014introduction/</guid>
       <description>Authors Clark, Alexander
 Year 2014
 Abstract This is a gentle introduction to Multiple Context Free Grammars (mcfgs), intended for linguists who are familiar with context free grammars and movement based analyses of displaced constituents, but unfamiliar with Minimalist Grammars or other mildly context-sensitive formalisms.

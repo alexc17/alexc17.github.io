@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Rational Empiricism</title>
-    <link>http://alexc17.github.io/pages/</link>
+    <link>https://alexc17.github.io/pages/</link>
     <description>Recent content in Pages on Rational Empiricism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 12:35:12 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 12:35:12 +0000</lastBuildDate><atom:link href="https://alexc17.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linguistic Nativism and the Argument from the Poverty of the Stimulus</title>
-      <link>http://alexc17.github.io/pages/aps/</link>
+      <link>https://alexc17.github.io/pages/aps/</link>
       <pubDate>Tue, 07 Dec 2021 12:35:12 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/pages/aps/</guid>
+      <guid>https://alexc17.github.io/pages/aps/</guid>
       <description>This unique contribution to the ongoing discussion of language acquisition considers the Argument from the Poverty of the Stimulus in language learning in the context of the wider debate over cognitive, computational, and linguistic issues. Critically examines the Argument from the Poverty of the Stimulus - the theory that the linguistic input which children receive is insufficient to explain the rich and rapid development of their knowledge of their first language(s) through general learning mechanisms Focuses on formal learnability properties of the class of natural languages, considered from the perspective of several learning theoretic models The only current book length study of arguments for the poverty of the stimulus which focuses on the computational learning theoretic aspects of the problem.</description>
     </item>
     
     <item>
       <title>Empiricism and Language Learnability</title>
-      <link>http://alexc17.github.io/pages/empiricism/</link>
+      <link>https://alexc17.github.io/pages/empiricism/</link>
       <pubDate>Tue, 07 Dec 2021 12:35:05 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/pages/empiricism/</guid>
+      <guid>https://alexc17.github.io/pages/empiricism/</guid>
       <description>This interdisciplinary new work explores one of the central theoretical problems in linguistics: learnability. The authors, from different backgrounds - linguistics, philosophy, computer science, psychology and cognitive science-explore the idea that language acquisition proceeds through general purpose learning mechanisms, an approach that is broadly empiricist both methodologically and psychologically.
 For many years, the empiricist approach has been taken to be unfeasible on practical and theoretical grounds. In the book, the authors present a variety of precisely specified mathematical and computational results that show that empiricist approaches can form a viable solution to the problem of language acquisition.</description>
     </item>
     
     <item>
       <title>Handbook</title>
-      <link>http://alexc17.github.io/pages/handbook/</link>
+      <link>https://alexc17.github.io/pages/handbook/</link>
       <pubDate>Tue, 07 Dec 2021 12:34:59 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/pages/handbook/</guid>
+      <guid>https://alexc17.github.io/pages/handbook/</guid>
       <description>This comprehensive reference work provides an overview of the concepts, methodologies, and applications in computational linguistics and natural language processing (NLP). Features contributions by the top researchers in the field, reflecting the work that is driving the discipline forward Includes an introduction to the major theoretical issues in these fields, as well as the central engineering applications that the work has produced Presents the major developments in an accessible way, explaining the close connection between scientific understanding of the computational properties of natural language and the creation of effective language technologies Serves as an invaluable state-of-the-art reference source for computational linguists and software engineers developing NLP applications in industrial research and development labs of software companies.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://alexc17.github.io/pages/research/</link>
+      <link>https://alexc17.github.io/pages/research/</link>
       <pubDate>Tue, 07 Dec 2021 10:23:33 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/pages/research/</guid>
+      <guid>https://alexc17.github.io/pages/research/</guid>
       <description>I am interested in the human ability to learn and use language, particularly at the level of syntax, and I approach it using mathematical tools. Of the two, the learning problem is much harder and more constrained, and I have been developing a set of mathematical tools for learning the sorts of grammars that we think are good representations of syntax. This ends up looking like a weird sort of theoretical machine learning, but I consider it theoretical linguistics.</description>
     </item>
     
     <item>
       <title>Bio</title>
-      <link>http://alexc17.github.io/pages/bio/</link>
+      <link>https://alexc17.github.io/pages/bio/</link>
       <pubDate>Mon, 06 Dec 2021 14:03:17 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/pages/bio/</guid>
+      <guid>https://alexc17.github.io/pages/bio/</guid>
       <description>My first degree was in mathematics; I went to Trinity College, Cambridge. After a few years doing other things, I went to the University of Sussex and did a Ph.D.
 I was a post-doc at the University of Geneva in ISSCO, one of the Dalle Molle research institutes, which is now a research unit called TIM.
 I was a lecturer in the computer science department at Royal Holloway, and then in the philosophy department at King&amp;rsquo;s College, London.</description>
@@ -57,10 +57,10 @@ I was a lecturer in the computer science department at Royal Holloway, and then 
     
     <item>
       <title>About Me</title>
-      <link>http://alexc17.github.io/pages/aboutme/</link>
+      <link>https://alexc17.github.io/pages/aboutme/</link>
       <pubDate>Mon, 06 Dec 2021 13:37:33 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/pages/aboutme/</guid>
+      <guid>https://alexc17.github.io/pages/aboutme/</guid>
       <description>I live in London and do research on mathematical and theoretical linguistics, in particular on the problem of language acquisition. I am currently an associate researcher at CLASP at the University of Gothenburg.
 I am an action editor for JMLR and TACL, two excellent open access journals. I don&amp;rsquo;t review for non open-access publications.</description>
     </item>

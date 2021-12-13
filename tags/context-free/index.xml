@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Context-free on Rational Empiricism</title>
-    <link>http://alexc17.github.io/tags/context-free/</link>
+    <link>https://alexc17.github.io/tags/context-free/</link>
     <description>Recent content in Context-free on Rational Empiricism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/tags/context-free/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexc17.github.io/tags/context-free/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond {Chomsky} Normal Form: Extending Strong Learning Algorithms for {PCFGs}</title>
-      <link>http://alexc17.github.io/publication/pmlr-v153-clark21a/</link>
+      <link>https://alexc17.github.io/publication/pmlr-v153-clark21a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/publication/pmlr-v153-clark21a/</guid>
+      <guid>https://alexc17.github.io/publication/pmlr-v153-clark21a/</guid>
       <description>Authors Clark, Alexander
 Year 2021
 Abstract We extend a recent consistent strong learning algorithm for a subclass of probabilistic context-free grammars in Chomsky normal form, (Clark and Fijalkow, 2020) to a much larger class of grammars by weakening the normal form constraints to allow for a richer class of derivation structures that are not necessarily binary branching, including among other possibilities unary branching trees which introduce some technical difficulties. By modifying the structural conditions appropriately we obtain an algorithm which is computationally efficient, and a consistent estimator for the class of grammars defined.</description>
@@ -20,10 +20,10 @@ Abstract We extend a recent consistent strong learning algorithm for a subclass 
     
     <item>
       <title>Distributional Learning of Context-Free and Multiple Context-Free Grammars</title>
-      <link>http://alexc17.github.io/publication/topicsgi/</link>
+      <link>https://alexc17.github.io/publication/topicsgi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/publication/topicsgi/</guid>
+      <guid>https://alexc17.github.io/publication/topicsgi/</guid>
       <description>Authors Clark, Alexander and Yoshinaka, Ryo
 Year 2016
 Abstract Natural languages require grammars beyond context-free for their description. Here we extend a family of distributional learning algorithms for context-free grammars to the class of Parallel Multiple Context-Free Grammars (PMCFGs). These grammars have two additional operations beyond the simple context-free operation of concatenation: the ability to interleave strings of symbols, and the ability to copy or duplicate strings. This allows the grammars to generate some non-semilinear languages, which are outside the class of mildly context-sensitive grammars.</description>

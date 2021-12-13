@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>methodology on Rational Empiricism</title>
-    <link>http://alexc17.github.io/tags/methodology/</link>
+    <link>https://alexc17.github.io/tags/methodology/</link>
     <description>Recent content in methodology on Rational Empiricism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 12:04:16 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 12:04:16 +0000</lastBuildDate><atom:link href="https://alexc17.github.io/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Upper and lower bounds</title>
-      <link>http://alexc17.github.io/posts/my-first-post/</link>
+      <link>https://alexc17.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 06 Dec 2021 12:04:16 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/posts/my-first-post/</guid>
+      <guid>https://alexc17.github.io/posts/my-first-post/</guid>
       <description>A small methodological issue. Suppose you are interested in identifying some single ingredient behind the faculty of language, some property that distinguishes humans from non-humans. This has to be some property that humans have that non-humans don&amp;rsquo;t have. So the argument needs to have two parts: a claim that humans have this property and a claim that humans don&amp;rsquo;t have this property. So this can&amp;rsquo;t be an upper bound on the human ability, but needs to be a lower bound.</description>
     </item>
     

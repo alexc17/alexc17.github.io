@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Copying on Rational Empiricism</title>
-    <link>http://alexc17.github.io/tags/copying/</link>
+    <link>https://alexc17.github.io/tags/copying/</link>
     <description>Recent content in  Copying on Rational Empiricism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/tags/copying/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://alexc17.github.io/tags/copying/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributional Learning of Some Nonlinear Tree Grammars</title>
-      <link>http://alexc17.github.io/publication/fi2016/</link>
+      <link>https://alexc17.github.io/publication/fi2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://alexc17.github.io/publication/fi2016/</guid>
+      <guid>https://alexc17.github.io/publication/fi2016/</guid>
       <description>Authors Clark, Alexander and Kanazawa, Makoto and Kobele, Gregory M. and Yoshinaka, Ryo
 Year 2016
 Abstract A key component of Clark and Yoshinaka’s distributional learning algorithms is the extraction of substructures and contexts contained in the input data. This problem often becomes intractable with nonlinear grammar formalisms due to the fact that more than polynomially many substructures and/or contexts may be contained in each object. Previous works on distributional learning of nonlinear grammars avoided this difficulty by restricting the substructures or contexts that are made available to the learner.</description>
