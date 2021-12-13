@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Syntactic knowledge on Rational Empiricism</title>
+    <link>http://alexc17.github.io/tags/syntactic-knowledge/</link>
+    <description>Recent content in  Syntactic knowledge on Rational Empiricism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/tags/syntactic-knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grammaticality, Acceptability, and Probability: A Probabilistic View of Linguistic Knowledge</title>
+      <link>http://alexc17.github.io/publication/cogs12414/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/cogs12414/</guid>
+      <description>Authors Lau, Jey Han and Clark, Alexander and Lappin, Shalom
+Year 2017
+Abstract The question of whether humans represent grammatical knowledge as a binary condition on membership in a set of well-formed sentences, or as a probabilistic property has been the subject of debate among linguists, psychologists, and cognitive scientists for many decades. Acceptability judgments present a serious problem for both classical binary and probabilistic theories of grammaticality. These judgements are gradient in nature, and so cannot be directly accommodated in a binary formal grammar.</description>
+    </item>
+    
+  </channel>
+</rss>

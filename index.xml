@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Clark&#39;s homepage on Rational Empiricism</title>
+    <link>http://alexc17.github.io/</link>
+    <description>Recent content in Alexander Clark&#39;s homepage on Rational Empiricism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2021 10:04:30 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linguistic Nativism and the Argument from the Poverty of the Stimulus</title>
+      <link>http://alexc17.github.io/pages/aps/</link>
+      <pubDate>Tue, 07 Dec 2021 12:35:12 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/pages/aps/</guid>
+      <description>This unique contribution to the ongoing discussion of language acquisition considers the Argument from the Poverty of the Stimulus in language learning in the context of the wider debate over cognitive, computational, and linguistic issues. Critically examines the Argument from the Poverty of the Stimulus - the theory that the linguistic input which children receive is insufficient to explain the rich and rapid development of their knowledge of their first language(s) through general learning mechanisms Focuses on formal learnability properties of the class of natural languages, considered from the perspective of several learning theoretic models The only current book length study of arguments for the poverty of the stimulus which focuses on the computational learning theoretic aspects of the problem.</description>
+    </item>
+    
+    <item>
+      <title>Empiricism and Language Learnability</title>
+      <link>http://alexc17.github.io/pages/empiricism/</link>
+      <pubDate>Tue, 07 Dec 2021 12:35:05 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/pages/empiricism/</guid>
+      <description>This interdisciplinary new work explores one of the central theoretical problems in linguistics: learnability. The authors, from different backgrounds - linguistics, philosophy, computer science, psychology and cognitive science-explore the idea that language acquisition proceeds through general purpose learning mechanisms, an approach that is broadly empiricist both methodologically and psychologically.
+For many years, the empiricist approach has been taken to be unfeasible on practical and theoretical grounds. In the book, the authors present a variety of precisely specified mathematical and computational results that show that empiricist approaches can form a viable solution to the problem of language acquisition.</description>
+    </item>
+    
+    <item>
+      <title>Handbook</title>
+      <link>http://alexc17.github.io/pages/handbook/</link>
+      <pubDate>Tue, 07 Dec 2021 12:34:59 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/pages/handbook/</guid>
+      <description>This comprehensive reference work provides an overview of the concepts, methodologies, and applications in computational linguistics and natural language processing (NLP). Features contributions by the top researchers in the field, reflecting the work that is driving the discipline forward Includes an introduction to the major theoretical issues in these fields, as well as the central engineering applications that the work has produced Presents the major developments in an accessible way, explaining the close connection between scientific understanding of the computational properties of natural language and the creation of effective language technologies Serves as an invaluable state-of-the-art reference source for computational linguists and software engineers developing NLP applications in industrial research and development labs of software companies.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://alexc17.github.io/pages/research/</link>
+      <pubDate>Tue, 07 Dec 2021 10:23:33 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/pages/research/</guid>
+      <description>I am interested in the human ability to learn and use language, particularly at the level of syntax, and I approach it using mathematical tools. Of the two, the learning problem is much harder and more constrained, and I have been developing a set of mathematical tools for learning the sorts of grammars that we think are good representations of syntax. This ends up looking like a weird sort of theoretical machine learning, but I consider it theoretical linguistics.</description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>http://alexc17.github.io/pages/bio/</link>
+      <pubDate>Mon, 06 Dec 2021 14:03:17 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/pages/bio/</guid>
+      <description>My first degree was in mathematics; I went to Trinity College, Cambridge. After a few years doing other things, I went to the University of Sussex and did a Ph.D.
+I was a post-doc at the University of Geneva in ISSCO, one of the Dalle Molle research institutes, which is now a research unit called TIM.
+I was a lecturer in the computer science department at Royal Holloway, and then in the philosophy department at King&amp;rsquo;s College, London.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://alexc17.github.io/pages/aboutme/</link>
+      <pubDate>Mon, 06 Dec 2021 13:37:33 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/pages/aboutme/</guid>
+      <description>I live in London and do research on mathematical and theoretical linguistics, in particular on the problem of language acquisition. I am currently an associate researcher at CLASP at the University of Gothenburg.
+I am an action editor for JMLR and TACL, two excellent open access journals. I don&amp;rsquo;t review for non open-access publications.</description>
+    </item>
+    
+    <item>
+      <title>Upper and lower bounds</title>
+      <link>http://alexc17.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 06 Dec 2021 12:04:16 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/posts/my-first-post/</guid>
+      <description>A small methodological issue. Suppose you are interested in identifying some single ingredient behind the faculty of language, some property that distinguishes humans from non-humans. This has to be some property that humans have that non-humans don&amp;rsquo;t have. So the argument needs to have two parts: a claim that humans have this property and a claim that humans don&amp;rsquo;t have this property. So this can&amp;rsquo;t be an upper bound on the human ability, but needs to be a lower bound.</description>
+    </item>
+    
+    <item>
+      <title>Beyond {Chomsky} Normal Form: Extending Strong Learning Algorithms for {PCFGs}</title>
+      <link>http://alexc17.github.io/publication/pmlr-v153-clark21a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/pmlr-v153-clark21a/</guid>
+      <description>Authors Clark, Alexander
+Year 2021
+Abstract We extend a recent consistent strong learning algorithm for a subclass of probabilistic context-free grammars in Chomsky normal form, (Clark and Fijalkow, 2020) to a much larger class of grammars by weakening the normal form constraints to allow for a richer class of derivation structures that are not necessarily binary branching, including among other possibilities unary branching trees which introduce some technical difficulties. By modifying the structural conditions appropriately we obtain an algorithm which is computationally efficient, and a consistent estimator for the class of grammars defined.</description>
+    </item>
+    
+    <item>
+      <title>Strong Learning of Probabilistic Tree Adjoining Grammars</title>
+      <link>http://alexc17.github.io/publication/clark2021tag/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2021tag/</guid>
+      <description>Authors Alexander Clark
+Year 2021
+Abstract The problem of learning syntactic structure is notoriously difficult, especially with mildly context-sensitive grammars. Existing approaches to learning these types of grammars are limited &amp;ndash; they are not guaranteed to learn the correct grammars or structures, only the correct derived structures whether these are trees or strings. Here we present some progress towards strong learning of these formalisms, extending a recent result on strong learning of probabilistic context-free grammars to a class of probabilistic context-free tree grammars that is weakly equivalent to Tree-Adjoining Grammars.</description>
+    </item>
+    
+    <item>
+      <title>Strong learning of some Probabilistic Multiple Context-Free Grammars</title>
+      <link>http://alexc17.github.io/publication/clark2021mol/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2021mol/</guid>
+      <description>Authors Alexander Clark
+Year 2021
+Abstract This paper presents an algorithm for strong learning of probabilistic multiple context free grammars from a positive sample of strings generated by the grammars. The algorithm is shown to be a consistent estimator for a class of well-nested grammars, given by explicit structural conditions on the underlying grammar, and for grammars in this class is guaranteed to converge to a grammar which is isomorphic to the original, not just one that generates the same set of strings.</description>
+    </item>
+    
+    <item>
+      <title>Consistent Unsupervised Estimators for Anchored {PCFG}s</title>
+      <link>http://alexc17.github.io/publication/clark2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2020/</guid>
+      <description>Authors Clark, Alexander and Fijalkow, Nathana&amp;quot;el
+Year 2020
+Abstract Learning probabilistic context-free grammars (PCFGs) from strings is a classic problem in computational linguistics since Horning (1969). Here we present an algorithm based on distributional learning that is a consistent estimator for a large class of PCFGs that satisfy certain natural conditions including being anchored (Stratos et al., 2016). We proceed via a reparameterization of (top-down) PCFGs that we call a bottom-up weighted context-free grammar.</description>
+    </item>
+    
+    <item>
+      <title>Computational Learning of Syntax</title>
+      <link>http://alexc17.github.io/publication/clark2017computational/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2017computational/</guid>
+      <description>Authors Clark, Alexander
+Year 2017
+Abstract Learnability has traditionally been considered to be a crucial constraint on theoretical syntax; however, the issues involved have been poorly understood, partly as a result of the lack of simple learning algorithms for various types of formal grammars. Here I discuss the computational issues involved in learning hierarchically structured grammars from strings of symbols alone. The methods involved are based on an abstract notion of the derivational context of a syntactic category, which in the most elementary case of context-free grammars leads to learning algorithms based on a form of traditional distributional analysis.</description>
+    </item>
+    
+    <item>
+      <title>Grammaticality, Acceptability, and Probability: A Probabilistic View of Linguistic Knowledge</title>
+      <link>http://alexc17.github.io/publication/cogs12414/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/cogs12414/</guid>
+      <description>Authors Lau, Jey Han and Clark, Alexander and Lappin, Shalom
+Year 2017
+Abstract The question of whether humans represent grammatical knowledge as a binary condition on membership in a set of well-formed sentences, or as a probabilistic property has been the subject of debate among linguists, psychologists, and cognitive scientists for many decades. Acceptability judgments present a serious problem for both classical binary and probabilistic theories of grammaticality. These judgements are gradient in nature, and so cannot be directly accommodated in a binary formal grammar.</description>
+    </item>
+    
+    <item>
+      <title>Testing Distributional Properties of Context-Free Grammars</title>
+      <link>http://alexc17.github.io/publication/icgi16/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/icgi16/</guid>
+      <description>Authors Alexander Clark
+Year 2017
+Abstract Recent algorithms for distributional learning of context-free grammars can learn all languages defined by grammars that have certain distributional properties: the finite kernel property (FKP) and the finite context property (FCP). In this paper we present some algorithms for approximately determining whether a given grammar has one of these properties. We then present the results of some experiments that indicate that with randomly generated context-free grammars in Chomsky normal form, which generate infinite languages and are derivationally sparse, nearly all grammars have the finite kernel property, whereas the finite context property is much less common.</description>
+    </item>
+    
+    <item>
+      <title>Distributional Learning of Context-Free and Multiple Context-Free Grammars</title>
+      <link>http://alexc17.github.io/publication/topicsgi/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/topicsgi/</guid>
+      <description>Authors Clark, Alexander and Yoshinaka, Ryo
+Year 2016
+Abstract Natural languages require grammars beyond context-free for their description. Here we extend a family of distributional learning algorithms for context-free grammars to the class of Parallel Multiple Context-Free Grammars (PMCFGs). These grammars have two additional operations beyond the simple context-free operation of concatenation: the ability to interleave strings of symbols, and the ability to copy or duplicate strings. This allows the grammars to generate some non-semilinear languages, which are outside the class of mildly context-sensitive grammars.</description>
+    </item>
+    
+    <item>
+      <title>Distributional Learning of Some Nonlinear Tree Grammars</title>
+      <link>http://alexc17.github.io/publication/fi2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/fi2016/</guid>
+      <description>Authors Clark, Alexander and Kanazawa, Makoto and Kobele, Gregory M. and Yoshinaka, Ryo
+Year 2016
+Abstract A key component of Clark and Yoshinaka’s distributional learning algorithms is the extraction of substructures and contexts contained in the input data. This problem often becomes intractable with nonlinear grammar formalisms due to the fact that more than polynomially many substructures and/or contexts may be contained in each object. Previous works on distributional learning of nonlinear grammars avoided this difficulty by restricting the substructures or contexts that are made available to the learner.</description>
+    </item>
+    
+    <item>
+      <title>Canonical Context-Free Grammars and Strong Learning: Two Approaches</title>
+      <link>http://alexc17.github.io/publication/mol2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/mol2015/</guid>
+      <description>Authors Clark, Alexander
+Year 2015
+Abstract Strong learning of context-free grammars is the problem of learning a grammar which is not just weakly equivalent to a target grammar but isomorphic or structurally equivalent to it. This is closely related to the problem of defining a canonical grammar for the language. The current proposal for strong learning of a small class of CFGs uses grammars whose nonterminals correspond to congruence classes of the language, in particular to a subset of those that satisfy a primality condition.</description>
+    </item>
+    
+    <item>
+      <title>Empiricism and language learnability</title>
+      <link>http://alexc17.github.io/publication/chater2015empiricism/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/chater2015empiricism/</guid>
+      <description>Authors Chater, Nick and Clark, Alexander and Goldsmith, John A and Perfors, Andy
+Year 2015
+Abstract his interdisciplinary new work explores one of the central theoretical problems in linguistics: learnability. The authors, from different backgrounds - linguistics, philosophy, computer science, psychology and cognitive science-explore the idea that language acquisition proceeds through general purpose learning mechanisms, an approach that is broadly empiricist both methodologically and psychologically.
+For many years, the empiricist approach has been taken to be unfeasible on practical and theoretical grounds.</description>
+    </item>
+    
+    <item>
+      <title>Learnability</title>
+      <link>http://alexc17.github.io/publication/clark2015learnability/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2015learnability/</guid>
+      <description>Authors Clark, Alexander
+Year 2015
+Abstract Reviews of learnability in linguistics focus on negative results, with the nativists stressing the negative results and the researchers of a more empiricist persuasion downplaying them. This chapter discusses the theory of learnability or grammatical inference, from a positive perspective. It focuses on the methodological issues involved in applying the tools of mathematical analysis to the empirical problem of language acquisition, and the various assumptions that one make, and by discussing the problems of grammatical inference.</description>
+    </item>
+    
+    <item>
+      <title>An Algebraic Approach to Multiple Context-Free Grammars</title>
+      <link>http://alexc17.github.io/publication/lacl14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/lacl14/</guid>
+      <description>Authors Clark, Alexander and Yoshinaka, Ryo
+Year 2014
+Abstract We define an algebraic structure, Paired Complete Idempotent Semirings (pcis), which are appropriate for defining a denotational semantics for multiple context-free grammars of dimension 2 (2-mcfg). We demonstrate that homomorphisms of this structure will induce well-behaved morphisms of the grammar, and generalize the syntactic concept lattice from context-free grammars to the 2-mcfg case. We show that this lattice is the unique minimal structure that will interpret the grammar faithfully and that therefore 2-mcfgs without mergeable nonterminals will have nonterminals that correspond to elements of this structure.</description>
+    </item>
+    
+    <item>
+      <title>An introduction to multiple context free grammars for linguists</title>
+      <link>http://alexc17.github.io/publication/clark2014introduction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2014introduction/</guid>
+      <description>Authors Clark, Alexander
+Year 2014
+Abstract This is a gentle introduction to Multiple Context Free Grammars (mcfgs), intended for linguists who are familiar with context free grammars and movement based analyses of displaced constituents, but unfamiliar with Minimalist Grammars or other mildly context-sensitive formalisms.
+Links link
+local copy of pdf
+citation in bibtex</description>
+    </item>
+    
+    <item>
+      <title>Distributional learning of parallel multiple context-free grammars</title>
+      <link>http://alexc17.github.io/publication/clarkyoshinakamlj2013/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clarkyoshinakamlj2013/</guid>
+      <description>Authors Clark, Alexander and Yoshinaka, Ryo
+Year 2014
+Abstract Natural languages require grammars beyond context-free for their description. Here we extend a family of distributional learning algorithms for context-free grammars to the class of Parallel Multiple Context-Free Grammars (PMCFGs). These grammars have two additional operations beyond the simple context-free operation of concatenation: the ability to interleave strings of symbols, and the ability to copy or duplicate strings. This allows the grammars to generate some non-semilinear languages, which are outside the class of mildly context-sensitive grammars.</description>
+    </item>
+    
+    <item>
+      <title>Complexity in Language Acquisition</title>
+      <link>http://alexc17.github.io/publication/topicscomplexity/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/topicscomplexity/</guid>
+      <description>Authors Clark, Alexander and Lappin, Shalom
+Year 2013
+Abstract Learning theory has frequently been applied to language acquisition, but discussion has largely focused on information theoretic problems—in particular on the absence of direct negative evidence. Such arguments typically neglect the probabilistic nature of cognition and learning in general. We argue first that these arguments, and analyses based on them, suffer from a major flaw: they systematically conflate the hypothesis class and the learnable concept class.</description>
+    </item>
+    
+    <item>
+      <title>Learning Trees from Strings: A Strong Learning Algorithm for some Context-Free Grammars</title>
+      <link>http://alexc17.github.io/publication/jmlr13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/jmlr13/</guid>
+      <description>Authors Alexander Clark
+Year 2013
+Abstract Standard models of language learning are concerned with weak learning: the learner, receiving as input only information about the strings in the language, must learn to generalise and to generate the correct, potentially infinite, set of strings generated by some target grammar. Here we define the corresponding notion of strong learning: the learner, again only receiving strings as input, must learn a grammar that generates the correct set of structures or parse trees.</description>
+    </item>
+    
+    <item>
+      <title>{The syntactic concept lattice: Another algebraic theory of the context-free languages?}</title>
+      <link>http://alexc17.github.io/publication/scl/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/scl/</guid>
+      <description>Authors Clark, Alexander
+Year 2013
+Abstract {The syntactic concept lattice is a residuated lattice associated with a given formal language; it arises naturally as a generalization of the syntactic monoid in the analysis of the distributional structure of the language. In this article we define the syntactic concept lattice and present its basic properties, and its relationship to the universal automaton and the syntactic congruence; we consider several different equivalent definitions, as Galois connections, as maximal factorizations and finally using universal algebra to define it as an object that has a certain universal (terminal) property in the category of complete idempotent semirings that recognize a given language, applying techniques from automata theory to the theory of context-free grammars (CFGs).</description>
+    </item>
+    
+    <item>
+      <title>Beyond Semilinearity: Distributional Learning of Parallel Multiple Context-free Grammars</title>
+      <link>http://alexc17.github.io/publication/pmlr-v21-clark12a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/pmlr-v21-clark12a/</guid>
+      <description>Authors Clark, Alexander and Yoshinaka, Ryo
+Year 2012
+Abstract Semilinearity is widely held to be a linguistic invariant but, controversially, some linguistic phenomena in languages like Old Georgian and Yoruba seem to violate this constraint. In this paper we extend distributional learning to the class of parallel multiple context-free grammars, a class which as far as is known includes all attested natural languages, even taking an extreme view on these examples.</description>
+    </item>
+    
+    <item>
+      <title>Computational Learning Theory and Language Acquisition</title>
+      <link>http://alexc17.github.io/publication/clark2012445/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2012445/</guid>
+      <description>Authors Alexander Clark and Shalom Lappin
+Year 2012
+Abstract no abstract
+Links link
+local copy of pdf
+citation in bibtex</description>
+    </item>
+    
+    <item>
+      <title>Logical grammars, logical theories</title>
+      <link>http://alexc17.github.io/publication/lacl2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/lacl2012/</guid>
+      <description>Authors Clark, Alexander
+Year 2012
+Abstract Residuated lattices form one of the theoretical backbones of the Lambek Calculus as the standard free models. They also appear in grammatical inference as the syntactic concept lattice, an algebraic structure canonically defined for every language L based on the lattice of all distributionally definable subsets of strings. Recent results show that it is possible to build representations, such as context-free grammars, based on these lattices, and that these representations will be efficiently learnable using distributional learning.</description>
+    </item>
+    
+    <item>
+      <title>A Language Theoretic Approach to Syntactic Structure</title>
+      <link>http://alexc17.github.io/publication/clark11molx/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark11molx/</guid>
+      <description>Authors Clark, Alexander
+Year 2011
+Abstract We consider the idea of defining syntactic structure relative to a language, rather than to a grammar for a language. This allows us to define a notion of hierarchical structure that is independent of the particular grammar, and that depends rather on the properties of various algebraic structures canonically associated with a language. Our goal is not necessarily to recover the traditional ideas of syntactic structure invented by linguists, but rather to come up with an objective notion of syntactic structure that can be used for semantic interpretation.</description>
+    </item>
+    
+    <item>
+      <title>Inference of Inversion Transduction Grammars</title>
+      <link>http://alexc17.github.io/publication/icml2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/icml2011/</guid>
+      <description>Authors Alexander Clark
+Year 2011
+Abstract We present the first polynomial algorithm for learning a class of inversion transduction grammars (ITGs) that implement context free transducers &amp;ndash; functions from strings to strings. The class of transductions that we can learn properly includes all subsequential transductions. These algorithms are based on a generalisation of distributional learning; we prove correctness of our algorithm under an identification in the limit model.
+Links link</description>
+    </item>
+    
+    <item>
+      <title>{Linguistic Nativism and the Poverty of the Stimulus}</title>
+      <link>http://alexc17.github.io/publication/clarklappinpoverty/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clarklappinpoverty/</guid>
+      <description>Authors Alexander Clark and Shalom Lappin
+Year 2011
+Abstract This unique contribution to the ongoing discussion of language acquisition considers the Argument from the Poverty of the Stimulus in language learning in the context of the wider debate over cognitive, computational, and linguistic issues. Critically examines the Argument from the Poverty of the Stimulus - the theory that the linguistic input which children receive is insufficient to explain the rich and rapid development of their knowledge of their first language(s) through general learning mechanisms Focuses on formal learnability properties of the class of natural languages, considered from the perspective of several learning theoretic models The only current book length study of arguments for the poverty of the stimulus which focuses on the computational learning theoretic aspects of the problem.</description>
+    </item>
+    
+    <item>
+      <title>Distributional Learning of some Context-free Languages with a Minimally Adequate Teacher</title>
+      <link>http://alexc17.github.io/publication/clark10matcfg/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark10matcfg/</guid>
+      <description>Authors Alexander Clark
+Year 2010
+Abstract Angluin showed that the class of regular languages could be learned from a Minimally Adequate Teacher (MAT) providing membership and equivalence queries. Clark and Eyraud (2007) showed that some context free grammars can be identified in the limit from positive data alone by identifying the congruence classes of the language. In this paper we consider learnability of context free languages using a MAT. We show that there is a natural class of context free languages, that includes the class of regular languages, that can be polynomially learned from a MAT, using an algorithm that is an extension of Angluin&amp;rsquo;s LSTAR algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Learning Context Free Grammars with the Syntactic Concept Lattice</title>
+      <link>http://alexc17.github.io/publication/icgi10scl/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/icgi10scl/</guid>
+      <description>Authors Clark, Alexander
+Year 2010
+Abstract The Syntactic Concept Lattice is a residuated lattice based on the distributional structure of a language; the natural representation based on this is a context sensitive formalism. Here we examine the possibility of basing a context free grammar (cfg) on the structure of this lattice; in particular by choosing non-terminals to correspond to concepts in this lattice. We present a learning algorithm for context free grammars which uses positive data and membership queries, and prove its correctness under the identification in the limit paradigm.</description>
+    </item>
+    
+    <item>
+      <title>The Handbook of Computational Linguistics and Natural Language Processing</title>
+      <link>http://alexc17.github.io/publication/clark10handbook/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark10handbook/</guid>
+      <description>Editors Alexander Clark and Chris Fox and Shalom Lappin
+Year 2010
+Abstract This comprehensive reference work provides an overview of the concepts, methodologies, and applications in computational linguistics and natural language processing (NLP). Features contributions by the top researchers in the field, reflecting the work that is driving the discipline forward Includes an introduction to the major theoretical issues in these fields, as well as the central engineering applications that the work has produced Presents the major developments in an accessible way, explaining the close connection between scientific understanding of the computational properties of natural language and the creation of effective language technologies Serves as an invaluable state-of-the-art reference source for computational linguists and software engineers developing NLP applications in industrial research and development labs of software companies.</description>
+    </item>
+    
+    <item>
+      <title>Three Learnable Models for the Description of Language</title>
+      <link>http://alexc17.github.io/publication/lata2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/lata2010/</guid>
+      <description>Authors Clark, Alexander
+Year 2010
+Abstract Learnability is a vital property of formal grammars: representation classes should be defined in such a way that they are learnable. One way to build learnable representations is by making them objective or empiricist: the structure of the representation should be based on the structure of the language. Rather than defining a function from representation to language we should start by defining a function from the language to the representation: following this strategy gives classes of representations that are easy to learn.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning and grammar induction</title>
+      <link>http://alexc17.github.io/publication/clark2010unsupervised/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2010unsupervised/</guid>
+      <description>Authors Clark, Alexander and Lappin, Shalom
+Year 2010
+Abstract In this chapter we consider unsupervised learning from two perspectives. First, we briefly look at its advantages and disadvantages as an engineering technique applied to large corpora in natural language processing. While supervised learning generally achieves greater accuracy with less data, unsupervised learning offers significant savings in the intensive labor required for annotating text. Second, we discuss the possible relevance of unsupervised learning to debates on the cognitive basis of human language acquisition.</description>
+    </item>
+    
+    <item>
+      <title>Another Look at Indirect Negative Evidence</title>
+      <link>http://alexc17.github.io/publication/clark-lappin-2009-another/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark-lappin-2009-another/</guid>
+      <description>Authors Clark, Alexander and Lappin, Shalom
+Year 2009
+Abstract Indirect negative evidence is clearly an important way for learners to constrain overgeneralisation, and yet a good learning theoretic analysis has yet to be provided for this, whether in a PAC or a probabilistic identification in the limit framework. In this paper we suggest a theoretical analysis of indirect negative evidence that allows the presence of ungrammatical strings in the input and also accounts for the relationship between grammaticality/acceptability and probability.</description>
+    </item>
+    
+    <item>
+      <title>A Polynomial Algorithm for the Inference of Context Free Languages</title>
+      <link>http://alexc17.github.io/publication/icgi2008bfg/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/icgi2008bfg/</guid>
+      <description>Authors Clark, Alexander and Eyraud, R{&#39;e}mi and Habrard, Amaury
+Year 2008
+Abstract We present a polynomial algorithm for the inductive inference of a large class of context free languages, that includes all regular languages. The algorithm uses a representation which we call Binary Feature Grammars based on a set of features, capable of representing richly structured context free languages as well as some context sensitive languages. More precisely, we focus on a particular case of this representation where the features correspond to contexts appearing in the language.</description>
+    </item>
+    
+    <item>
+      <title>Polynomial Identification in the Limit of Substitutable Context-free Languages</title>
+      <link>http://alexc17.github.io/publication/clark07ax/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark07ax/</guid>
+      <description>Authors Clark, Alexander and Eyraud, R&#39;emi
+Year 2007
+Abstract This paper formalises the idea of substitutability introduced by Zellig Harris in the 1950s and makes it the basis for a learning algorithm from positive data only for a subclass of context-free languages. We show that there is a polynomial characteristic set, and thus prove polynomial identification in the limit of this class. We discuss the relationship of this class of languages to other common classes discussed in grammatical inference.</description>
+    </item>
+    
+    <item>
+      <title>PAC-Learning Unambiguous NTS Languages</title>
+      <link>http://alexc17.github.io/publication/icgi2006pac/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/icgi2006pac/</guid>
+      <description>Authors Clark, Alexander
+Year 2006
+Abstract Non-terminally separated (NTS) languages are a subclass of deterministic context free languages where there is a stable relationship between the substrings of the language and the non-terminals of the grammar. We show that when the distribution of samples is generated by a PCFG, based on the same grammar as the target language, the class of unambiguous NTS languages is PAC-learnable from positive data alone, with polynomial bounds on data and computation.</description>
+    </item>
+    
+    <item>
+      <title>Partially Distribution-Free Learning of Regular Languages from Positive Samples</title>
+      <link>http://alexc17.github.io/publication/clark04b/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark04b/</guid>
+      <description>Authors Clark, Alexander and Thollard, Franck
+Year 2004
+Abstract Regular languages are widely used in NLP today in spite of their shortcomings. Efficient algorithms that can reliably learn these languages, and which must in realistic applications only use positive samples, are necessary. These languages are not learnable under traditional distribution free criteria. We claim that an appropriate learning framework is PAC learning where the distributions are constrained to be generated by a class of stochastic automata with support equal to the target concept.</description>
+    </item>
+    
+    <item>
+      <title>{PAC}-learnability of Probabilistic Deterministic Finite State Automata</title>
+      <link>http://alexc17.github.io/publication/clark04a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark04a/</guid>
+      <description>Authors Clark, Alexander and Thollard, Franck
+Year 2004
+Abstract We study the learnability of Probabilistic Deterministic Finite State Automata under a modified PAC-learning criterion. We argue that it is necessary to add additional parameters to the samplecomplexity polynomial, namely a bound on the expected length of strings generated from any state,and a bound on the distinguishability between states. With this, we demonstrate that the class of PDFAs is PAC-learnable using a variant of a standard state-merging algorithm and the Kullback-Leibler divergence as error function.</description>
+    </item>
+    
+    <item>
+      <title>Combining Distributional and Morphological Information for Part of Speech Induction</title>
+      <link>http://alexc17.github.io/publication/clark-2003-combining/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark-2003-combining/</guid>
+      <description>Authors Clark, Alexander
+Year 2003
+Abstract In this paper we discuss algorithms for clustering words into classes from unlabelled text using unsupervised algorithms, based on distributional and morphological information. We show how the use of morphological information can improve the performance on rare words, and that this is robust across a wide range of languages.
+Links link
+local copy of pdf
+citation in bibtex</description>
+    </item>
+    
+    <item>
+      <title>Pre-processing very noisy text</title>
+      <link>http://alexc17.github.io/publication/clark2003pre/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark2003pre/</guid>
+      <description>Authors Clark, Alexander
+Year 2003
+Abstract no abstract
+Links local copy of pdf
+citation in bibtex</description>
+    </item>
+    
+    <item>
+      <title>Shallow Parsing Using Probabilistic Grammatical Inference</title>
+      <link>http://alexc17.github.io/publication/icgi2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/icgi2002/</guid>
+      <description>Authors Thollard, Franck and Clark, Alexander
+Year 2002
+Abstract This paper presents an application of grammatical inference to the task of shallow parsing. We first learn a deterministic probabilistic automaton that models the joint distribution of Chunk (syntactic phrase) tags and Part-of-speech tags, and then use this automaton as a transducer to find the most likely chunk tag sequence using a dynamic programming algorithm. We discuss an efficient means of incorporating lexical information, which automatically identifies particular words that are useful using a mutual information criterion, together with an application of bagging that improve our results.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Induction of Stochastic Context Free Grammars with Distributional Clustering</title>
+      <link>http://alexc17.github.io/publication/clark-01a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark-01a/</guid>
+      <description>Authors Clark, Alexander
+Year 2001
+Abstract An algorithm is presented for learning a phrase-structure grammar from tagged text. It clusters sequences of tags together based on local distributional information, and selects clusters that satisfy a novel mutual information criterion. This criterion is shown to be related to the entropy of a random variable associated with the tree structures, and it is demonstrated that it selects linguistically plausible constituents. This is incorporated in a Minimum Description Length algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Inducing Syntactic Categories by Context Distribution Clustering</title>
+      <link>http://alexc17.github.io/publication/clark-2000-inducing/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clark-2000-inducing/</guid>
+      <description>Authors Clark, Alexander
+Year 2000
+Abstract This paper addresses the issue of the automatic induction of syntactic categories from unanno- tared corpora. Previous techniques give good results, but fail to cope well with ambiguity or rare words. An algorithm, context distribution clustering (CDC), is presented which can be naturally extended to handle these problems.
+Links link
+local copy of pdf
+citation in bibtex</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mildly context-sensitive; Grammatical inference; Semilinearity on Rational Empiricism</title>
+    <link>http://alexc17.github.io/tags/mildly-context-sensitive-grammatical-inference-semilinearity/</link>
+    <description>Recent content in Mildly context-sensitive; Grammatical inference; Semilinearity on Rational Empiricism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://alexc17.github.io/tags/mildly-context-sensitive-grammatical-inference-semilinearity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributional learning of parallel multiple context-free grammars</title>
+      <link>http://alexc17.github.io/publication/clarkyoshinakamlj2013/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexc17.github.io/publication/clarkyoshinakamlj2013/</guid>
+      <description>Authors Clark, Alexander and Yoshinaka, Ryo
+Year 2014
+Abstract Natural languages require grammars beyond context-free for their description. Here we extend a family of distributional learning algorithms for context-free grammars to the class of Parallel Multiple Context-Free Grammars (PMCFGs). These grammars have two additional operations beyond the simple context-free operation of concatenation: the ability to interleave strings of symbols, and the ability to copy or duplicate strings. This allows the grammars to generate some non-semilinear languages, which are outside the class of mildly context-sensitive grammars.</description>
+    </item>
+    
+  </channel>
+</rss>
