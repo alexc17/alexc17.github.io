@@ -1,155 +1,161 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Rational Empiricism</title>
-    <link>https://alexc17.github.io/tags/</link>
-    <description>Recent content in Tags on Rational Empiricism</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 12:04:16 +0000</lastBuildDate><atom:link href="https://alexc17.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>methodology</title>
-      <link>https://alexc17.github.io/tags/methodology/</link>
-      <pubDate>Mon, 06 Dec 2021 12:04:16 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/methodology/</guid>
-      <description></description>
-    </item>
+bplist00Ñ_WebMainResourceÕ	
+_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMETypeUUTF-8_fhttps://raw.githubusercontent.com/gohugoio/hugo/master/tpl/tplimpl/embedded/templates/_default/rss.xmlPOó<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?&gt;
+&lt;rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"&gt;
+  &lt;channel&gt;
+    &lt;title&gt;Tags on Rational Empiricism&lt;/title&gt;
+    &lt;link&gt;https://alexc17.github.io/tags/&lt;/link&gt;
+    &lt;description&gt;Recent content in Tags on Rational Empiricism&lt;/description&gt;
+    &lt;generator&gt;Hugo -- gohugo.io&lt;/generator&gt;
+    &lt;language&gt;en-us&lt;/language&gt;
+    &lt;managingEditor&gt;alexsclark@gmail.com (Alexander Clark)&lt;/managingEditor&gt;
+    &lt;webMaster&gt;alexsclark@gmail.com (Alexander Clark)&lt;/webMaster&gt;
+    &lt;copyright&gt;2021 Alexander Clark All rights reserved&lt;/copyright&gt;
+    &lt;lastBuildDate&gt;Mon, 06 Dec 2021 12:04:16 +0000&lt;/lastBuildDate&gt;&lt;atom:link href="https://alexc17.github.io/tags/index.xml" rel="self" type="application/rss+xml" /&gt;
+    &lt;item&gt;
+      &lt;title&gt;methodology&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/methodology/&lt;/link&gt;
+      &lt;pubDate&gt;Mon, 06 Dec 2021 12:04:16 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/methodology/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> Probabilistic</title>
-      <link>https://alexc17.github.io/tags/probabilistic/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/probabilistic/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; Probabilistic&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/probabilistic/&lt;/link&gt;
+      &lt;pubDate&gt;Fri, 01 Jan 2021 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/probabilistic/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> Strong learning</title>
-      <link>https://alexc17.github.io/tags/strong-learning/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/strong-learning/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; Strong learning&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/strong-learning/&lt;/link&gt;
+      &lt;pubDate&gt;Fri, 01 Jan 2021 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/strong-learning/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title>Context-free</title>
-      <link>https://alexc17.github.io/tags/context-free/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/context-free/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt;Context-free&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/context-free/&lt;/link&gt;
+      &lt;pubDate&gt;Fri, 01 Jan 2021 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/context-free/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title>Mildly context-sensitive</title>
-      <link>https://alexc17.github.io/tags/mildly-context-sensitive/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/mildly-context-sensitive/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt;Mildly context-sensitive&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/mildly-context-sensitive/&lt;/link&gt;
+      &lt;pubDate&gt;Fri, 01 Jan 2021 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/mildly-context-sensitive/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> Probabilistic modeling</title>
-      <link>https://alexc17.github.io/tags/probabilistic-modeling/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/probabilistic-modeling/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; Probabilistic modeling&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/probabilistic-modeling/&lt;/link&gt;
+      &lt;pubDate&gt;Sun, 01 Jan 2017 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/probabilistic-modeling/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> Syntactic knowledge</title>
-      <link>https://alexc17.github.io/tags/syntactic-knowledge/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/syntactic-knowledge/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; Syntactic knowledge&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/syntactic-knowledge/&lt;/link&gt;
+      &lt;pubDate&gt;Sun, 01 Jan 2017 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/syntactic-knowledge/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> Tutorial</title>
-      <link>https://alexc17.github.io/tags/tutorial/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/tutorial/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; Tutorial&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/tutorial/&lt;/link&gt;
+      &lt;pubDate&gt;Sun, 01 Jan 2017 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/tutorial/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title>Grammaticality</title>
-      <link>https://alexc17.github.io/tags/grammaticality/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/grammaticality/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt;Grammaticality&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/grammaticality/&lt;/link&gt;
+      &lt;pubDate&gt;Sun, 01 Jan 2017 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/grammaticality/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> Copying</title>
-      <link>https://alexc17.github.io/tags/copying/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/copying/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; Copying&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/copying/&lt;/link&gt;
+      &lt;pubDate&gt;Fri, 01 Jan 2016 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/copying/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> grammatical inference</title>
-      <link>https://alexc17.github.io/tags/grammatical-inference/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/grammatical-inference/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; grammatical inference&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/grammatical-inference/&lt;/link&gt;
+      &lt;pubDate&gt;Thu, 01 Jan 2015 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/grammatical-inference/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> language acquisition</title>
-      <link>https://alexc17.github.io/tags/language-acquisition/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/language-acquisition/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; language acquisition&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/language-acquisition/&lt;/link&gt;
+      &lt;pubDate&gt;Thu, 01 Jan 2015 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/language-acquisition/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> learnability</title>
-      <link>https://alexc17.github.io/tags/learnability/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/learnability/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; learnability&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/learnability/&lt;/link&gt;
+      &lt;pubDate&gt;Thu, 01 Jan 2015 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/learnability/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title> mathematical analysis</title>
-      <link>https://alexc17.github.io/tags/mathematical-analysis/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/mathematical-analysis/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt; mathematical analysis&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/mathematical-analysis/&lt;/link&gt;
+      &lt;pubDate&gt;Thu, 01 Jan 2015 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/mathematical-analysis/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title>distributional learning</title>
-      <link>https://alexc17.github.io/tags/distributional-learning/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/distributional-learning/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt;distributional learning&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/distributional-learning/&lt;/link&gt;
+      &lt;pubDate&gt;Thu, 01 Jan 2015 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/distributional-learning/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-    <item>
-      <title>Mildly context-sensitive; Grammatical inference; Semilinearity</title>
-      <link>https://alexc17.github.io/tags/mildly-context-sensitive-grammatical-inference-semilinearity/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexc17.github.io/tags/mildly-context-sensitive-grammatical-inference-semilinearity/</guid>
-      <description></description>
-    </item>
+    &lt;item&gt;
+      &lt;title&gt;Mildly context-sensitive; Grammatical inference; Semilinearity&lt;/title&gt;
+      &lt;link&gt;https://alexc17.github.io/tags/mildly-context-sensitive-grammatical-inference-semilinearity/&lt;/link&gt;
+      &lt;pubDate&gt;Wed, 01 Jan 2014 00:00:00 +0000&lt;/pubDate&gt;
+      &lt;author&gt;alexsclark@gmail.com (Alexander Clark)&lt;/author&gt;
+      &lt;guid&gt;https://alexc17.github.io/tags/mildly-context-sensitive-grammatical-inference-semilinearity/&lt;/guid&gt;
+      &lt;description&gt;&lt;/description&gt;
+    &lt;/item&gt;
     
-  </channel>
-</rss>
+  &lt;/channel&gt;
+&lt;/rss&gt;
+</pre></body></html>Ztext/plain    ( F U l ~ ” š	û                           
+
